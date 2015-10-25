@@ -1,0 +1,17 @@
+config.cfg
+
+*.log
+
+/src
+
+/tmp
+
+*.sparseimage
+
+*.*~
+.DS_Store
+/.qmake.vars
+/.device.vars
+/sha1-List.txt
+/share/
+/log/
