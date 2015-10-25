@@ -1,1 +1,1 @@
-# arm-webkit-cross-sysroot
+# ARM WebKit cross sysroot
